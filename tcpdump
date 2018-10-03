@@ -1,0 +1,36 @@
+01:21:05.000681 IP localhost.37676 > localhost.tproxy: Flags [SEW], seq 2606675405, win 43690, options [mss 65495,sackOK,TS val 3043365444 ecr 0,nop,wscale 7], length 0
+01:21:05.000712 IP localhost.tproxy > localhost.37676: Flags [S.E], seq 1324825315, ack 2606675406, win 43690, options [mss 65495,sackOK,TS val 3043365444 ecr 3043365444,nop,wscale 7], length 0
+01:21:05.000741 IP localhost.37676 > localhost.tproxy: Flags [.], ack 1, win 342, options [nop,nop,TS val 3043365444 ecr 3043365444], length 0
+01:21:17.954305 IP localhost.37676 > localhost.tproxy: Flags [P.], seq 1:9, ack 1, win 342, options [nop,nop,TS val 3043378398 ecr 3043365444], length 8
+01:21:17.954349 IP localhost.tproxy > localhost.37676: Flags [.], ack 9, win 342, options [nop,nop,TS val 3043378398 ecr 3043378398], length 0
+01:21:17.954443 IP localhost.tproxy > localhost.37676: Flags [P.], seq 1:5, ack 9, win 342, options [nop,nop,TS val 3043378398 ecr 3043378398], length 4
+01:21:17.954468 IP localhost.37676 > localhost.tproxy: Flags [.], ack 5, win 342, options [nop,nop,TS val 3043378398 ecr 3043378398], length 0
+01:21:27.134395 IP localhost.37676 > localhost.tproxy: Flags [F.], seq 9, ack 5, win 342, options [nop,nop,TS val 3043387578 ecr 3043378398], length 0
+01:21:27.134615 IP localhost.tproxy > localhost.37676: Flags [F.], seq 5, ack 10, win 342, options [nop,nop,TS val 3043387578 ecr 3043387578], length 0
+01:21:27.134676 IP localhost.37676 > localhost.tproxy: Flags [.], ack 6, win 342, options [nop,nop,TS val 3043387578 ecr 3043387578], length 0
+01:21:32.430793 IP localhost.37744 > localhost.tproxy: Flags [SEW], seq 741303375, win 43690, options [mss 65495,sackOK,TS val 3043392874 ecr 0,nop,wscale 7], length 0
+01:21:32.430824 IP localhost.tproxy > localhost.37744: Flags [S.E], seq 1408179666, ack 741303376, win 43690, options [mss 65495,sackOK,TS val 3043392874 ecr 3043392874,nop,wscale 7], length 0
+01:21:32.430854 IP localhost.37744 > localhost.tproxy: Flags [.], ack 1, win 342, options [nop,nop,TS val 3043392874 ecr 3043392874], length 0
+01:21:35.596274 IP localhost.37744 > localhost.tproxy: Flags [P.], seq 1:9, ack 1, win 342, options [nop,nop,TS val 3043396040 ecr 3043392874], length 8
+01:21:35.596318 IP localhost.tproxy > localhost.37744: Flags [.], ack 9, win 342, options [nop,nop,TS val 3043396040 ecr 3043396040], length 0
+01:21:35.596458 IP localhost.tproxy > localhost.37744: Flags [P.], seq 1:5, ack 9, win 342, options [nop,nop,TS val 3043396040 ecr 3043396040], length 4
+01:21:35.596489 IP localhost.37744 > localhost.tproxy: Flags [.], ack 5, win 342, options [nop,nop,TS val 3043396040 ecr 3043396040], length 0
+01:21:45.232222 IP localhost.37744 > localhost.tproxy: Flags [P.], seq 9:17, ack 5, win 342, options [nop,nop,TS val 3043405676 ecr 3043396040], length 8
+01:21:45.232355 IP localhost.tproxy > localhost.37744: Flags [P.], seq 5:9, ack 17, win 342, options [nop,nop,TS val 3043405676 ecr 3043405676], length 4
+01:21:45.232389 IP localhost.37744 > localhost.tproxy: Flags [.], ack 9, win 342, options [nop,nop,TS val 3043405676 ecr 3043405676], length 0
+01:21:47.668197 IP localhost.37744 > localhost.tproxy: Flags [P.], seq 17:25, ack 9, win 342, options [nop,nop,TS val 3043408112 ecr 3043405676], length 8
+01:21:47.668368 IP localhost.tproxy > localhost.37744: Flags [P.], seq 9:13, ack 25, win 342, options [nop,nop,TS val 3043408112 ecr 3043408112], length 4
+01:21:47.668405 IP localhost.37744 > localhost.tproxy: Flags [.], ack 13, win 342, options [nop,nop,TS val 3043408112 ecr 3043408112], length 0
+01:21:49.970060 IP localhost.37744 > localhost.tproxy: Flags [P.], seq 25:33, ack 13, win 342, options [nop,nop,TS val 3043410414 ecr 3043408112], length 8
+01:21:49.970180 IP localhost.tproxy > localhost.37744: Flags [P.], seq 13:17, ack 33, win 342, options [nop,nop,TS val 3043410414 ecr 3043410414], length 4
+01:21:49.970208 IP localhost.37744 > localhost.tproxy: Flags [.], ack 17, win 342, options [nop,nop,TS val 3043410414 ecr 3043410414], length 0
+01:21:53.482013 IP localhost.37744 > localhost.tproxy: Flags [P.], seq 33:41, ack 17, win 342, options [nop,nop,TS val 3043413926 ecr 3043410414], length 8
+01:21:53.482188 IP localhost.tproxy > localhost.37744: Flags [P.], seq 17:21, ack 41, win 342, options [nop,nop,TS val 3043413926 ecr 3043413926], length 4
+01:21:53.482231 IP localhost.37744 > localhost.tproxy: Flags [.], ack 21, win 342, options [nop,nop,TS val 3043413926 ecr 3043413926], length 0
+01:21:56.580251 IP localhost.37744 > localhost.tproxy: Flags [P.], seq 41:49, ack 21, win 342, options [nop,nop,TS val 3043417024 ecr 3043413926], length 8
+01:21:56.580379 IP localhost.tproxy > localhost.37744: Flags [P.], seq 21:28, ack 49, win 342, options [nop,nop,TS val 3043417024 ecr 3043417024], length 7
+01:21:56.580411 IP localhost.37744 > localhost.tproxy: Flags [.], ack 28, win 342, options [nop,nop,TS val 3043417024 ecr 3043417024], length 0
+01:21:56.580457 IP localhost.tproxy > localhost.37744: Flags [F.], seq 28, ack 49, win 342, options [nop,nop,TS val 3043417024 ecr 3043417024], length 0
+01:21:56.580552 IP localhost.37744 > localhost.tproxy: Flags [F.], seq 49, ack 29, win 342, options [nop,nop,TS val 3043417024 ecr 3043417024], length 0
+01:21:56.580616 IP localhost.tproxy > localhost.37744: Flags [.], ack 50, win 342, options [nop,nop,TS val 3043417024 ecr 3043417024], length 0
+
